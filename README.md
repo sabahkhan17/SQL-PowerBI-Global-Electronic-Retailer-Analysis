@@ -62,6 +62,7 @@ The SQL insights were transformed into an interactive **3-page Power BI dashboar
 ---
 
 ## Connect With Me  
-💼 **LinkedIn:** https://www.linkedin.com/in/sabah-qaiser-khan-213165221/
 
-📊 **Maven Analytics Profile:** [Your Maven Profile]  
+💼 **LinkedIn Profile:** https://www.linkedin.com/in/sabah-qaiser-khan-213165221/
+
+📊 **Maven Analytics Profile:** https://mavenanalytics.io/project/27980
